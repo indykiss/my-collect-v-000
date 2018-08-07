@@ -9,6 +9,7 @@ def my_collect(arr)
   
 
   end
+  break
   new_arr
 end 
 
